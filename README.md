@@ -3,4 +3,4 @@ Parallel Web Crawler using Java SE9. Program uses concurrent programming techniq
 
 >Run using terminal command: java -classpath target/udacity-webcrawler-1.0.jar com.udacity.webcrawler.main.WebCrawlerMain src/main/config/sample_config.json
 
->The src/main/config/sample_config.json file can be changed for URL crawled, popular word count and other options.
+>The src/main/config/sample_config.json file can be modified to change the URL to be crawled, the number of most popular words to be counted and other options.
