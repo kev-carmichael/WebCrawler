@@ -1,0 +1,9 @@
+{
+  "startPages": ["https://www.bbc.com/news"],
+  "ignoredUrls": ["https://www.bbc.com/news/.*"],
+  "ignoredWords": ["^.{1,3}$"],
+  "implementationOverride": "com.udacity.webcrawler.SequentialWebCrawler",
+  "maxDepth": 2,
+  "timeoutSeconds": 1.5,
+  "popularWordCount": 10
+}
